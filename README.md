@@ -1,4 +1,4 @@
-[![Social banner for Lum](https://github.com/LumRamabaja/LumRamabaja/blob/main/assets/header.svg)](https://lums.blog)
+[![Social banner for Lum](https://github.com/LumRamabaja/LumRamabaja/blob/main/assets/header-banner.svg)](https://lums.blog)
 
 ### Hi there 👋
 
