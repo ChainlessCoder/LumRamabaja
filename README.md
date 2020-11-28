@@ -1,6 +1,12 @@
 [![Social banner for Lum](https://github.com/LumRamabaja/LumRamabaja/blob/main/assets/header-banner.svg)](https://lums.blog)
 
-### Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Lum.
+</p>
+<p align='center'>For enquiries, reach out @ <a href="https://lums.blog/contact">lums.blog</a> or over on <a href="https://twitter.com/LumRamabaja">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay Curious!</i></h1>
 
 <!--
 **LumRamabaja/LumRamabaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
